@@ -25,8 +25,5 @@ por isso, modifique-o conforme sua necessidade.
 
 Você pode criar novas variáveis, ou setar como string, novos parâmetros, na linha 48, onde se encontra a consulta.
 
-<<<<<<< HEAD:readme.md
 By: DavidFintt
-=======
-By; DavidFintt
->>>>>>> 74d47ca523f8f6f2839affc294312268a72c3273:readme
+
