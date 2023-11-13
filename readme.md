@@ -25,4 +25,4 @@ por isso, modifique-o conforme sua necessidade.
 
 Você pode criar novas variáveis, ou setar como string, novos parâmetros, na linha 48, onde se encontra a consulta.
 
-By; DavidFintt
+By: DavidFintt
